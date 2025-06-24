@@ -46,3 +46,5 @@ insider-whistleblower-india/
 ├── .gitignore
 ├── README.md
 
+INSIDER_FILE_ID = "1kpgPjxMCXjA7zw2qKr7jsONrMs0hHRXO"
+BULK_FILE_ID = "1s3tcbLKhRA-qcTWfPdlpRRVe59zvjZEF"
